@@ -14,7 +14,7 @@
 
 # GDD Template
 
-Adaptado do [original]([alinefbrito/gdd-template](https://github.com/alinefbrito/gdd-template)) para utilização do Wiki
+Adaptado do [original] (https://github.com/alinefbrito/gdd-template) para utilização do Wiki
 
 -   [1. Informações Gerais](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)</br>
     -   [1. Informações Gerais](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#1-informa%C3%A7%C3%B5es-gerais)
