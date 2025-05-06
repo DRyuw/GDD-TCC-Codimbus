@@ -16,14 +16,6 @@
 
 Adaptado do [original](https://github.com/allefrodrigo/gdd-template) para utilização do Wiki
 
-# Sumário
--   [Home](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki)
-    -   [GDD Template](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki#gdd-template) </br>
-    -   [Objetivo](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki#objetivo)
-    -   [Para quem é destinado](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki#para-quem-%C3%A9-destinado)
-    -   [Estrutura do Documento](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki#estrutura-do-documento)
-    -   [Como Utilizar](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki#como-utilizar)
-    -   [Sumário](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki#sum%C3%A1rio)
 -   [1. Informações Gerais](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)</br>
     -   [1. Informações Gerais](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#1-informa%C3%A7%C3%B5es-gerais)
     -   [1.1. Título do Jogo](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#11-t%C3%ADtulo-do-jogo)
