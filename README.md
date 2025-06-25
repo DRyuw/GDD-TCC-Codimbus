@@ -1,7 +1,7 @@
 # GDD-TCC-Codimbus
 
 <p align="center">
-  <img src="https://i.ibb.co/56s7K8j/292330192-445386850928422-7259301303587158181-n-jpg.png" alt="Minimalist RPG GDD Banner">
+  <img src="https://github.com/DRyuw/GDD-TCC-Codimbus/blob/main/Banner.png" alt="Minimalist RPG GDD Banner">
 </p>
 
 <p align="center">
