@@ -67,3 +67,7 @@ Adaptado do [original](https://github.com/alinefbrito/gdd-template) para utiliza
    -   [10. Conclusão](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/10.-Conclus%C3%A3o)</br>
 	    - [10.1. Sumário](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/10.-Conclus%C3%A3o#101-sum%C3%A1rio)
 	    - [10.2. Próximos Passos](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/10.-Conclus%C3%A3o#102-pr%C3%B3ximos-passos)
+
+Diagrama Mobile
+
+![IMG-20250912-WA0110.jpg](https://github.com/user-attachments/assets/1b0d5f39-16ed-420f-b387-1e9a65f6082d)
