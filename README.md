@@ -68,8 +68,8 @@ Adaptado do [original](https://github.com/alinefbrito/gdd-template) para utiliza
 	    - [10.1. Sumário](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/10.-Conclus%C3%A3o#101-sum%C3%A1rio)
 	    - [10.2. Próximos Passos](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/10.-Conclus%C3%A3o#102-pr%C3%B3ximos-passos)
 
-Diagrama Mobile
+Diagramas
 
-![IMG-20250912-WA0110.jpg](https://github.com/user-attachments/assets/1b0d5f39-16ed-420f-b387-1e9a65f6082d)
+![IMG-20251007-WA0028.jpg](https://github.com/user-attachments/assets/1c9d403b-5760-49ba-b464-16c48c3f25d8)
 
-![IMG-20250923-WA0053.jpg](https://github.com/user-attachments/assets/13bb0846-60b7-47d2-9c50-9b63b0b8a57a)
+![IMG-20251007-WA0031.jpg](https://github.com/user-attachments/assets/8ce3601e-99ee-43d1-8b94-fc2a215d58a0)
