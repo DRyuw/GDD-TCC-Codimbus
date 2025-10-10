@@ -76,4 +76,4 @@ Adaptado do [original](https://github.com/alinefbrito/gdd-template) para utiliza
 
 <h2>Diagrama Corrigido Mobile</h2>
 
-![Screenshot_20251009_190926_Lucidchart.jpg](https://github.com/user-attachments/assets/e24c9601-dfa8-4cc7-b2cb-8a2a998ebcda)
+![IMG-20251009-WA0031.jpg](https://github.com/user-attachments/assets/3a55dfba-5eb1-4739-a084-3ebb60b3132d)
