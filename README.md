@@ -67,13 +67,4 @@ Adaptado do [original](https://github.com/alinefbrito/gdd-template) para utiliza
    -   [10. Conclusão](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/10.-Conclus%C3%A3o)</br>
 	    - [10.1. Sumário](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/10.-Conclus%C3%A3o#101-sum%C3%A1rio)
 	    - [10.2. Próximos Passos](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/10.-Conclus%C3%A3o#102-pr%C3%B3ximos-passos)
-
-<h2>Diagramas</h2>
-
-![IMG-20251007-WA0028.jpg](https://github.com/user-attachments/assets/1c9d403b-5760-49ba-b464-16c48c3f25d8)
-
-![IMG-20251007-WA0031.jpg](https://github.com/user-attachments/assets/8ce3601e-99ee-43d1-8b94-fc2a215d58a0)
-
-<h2>Diagrama Corrigido Mobile</h2>
-
-![IMG-20251009-WA0031.jpg](https://github.com/user-attachments/assets/3a55dfba-5eb1-4739-a084-3ebb60b3132d)
+  - [11. Códigos do Jogo](https://github.com/DRyuw/GDD-TCC-Codimbus/wiki/11.-Códigos)
